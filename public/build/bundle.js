@@ -74411,7 +74411,7 @@
 	    // Configure Auth0
 	    this.lock = new _auth0Lock2.default(clientId, domain, {
 	      auth: {
-	        redirectUrl: 'https://books-project-63.herokuapp.com/login',
+	        redirectUrl: 'https://book-44.herokuapp.com/login',
 	        responseType: 'token'
 	      }
 	    });

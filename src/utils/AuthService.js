@@ -6,7 +6,7 @@ export default class AuthService {
     // Configure Auth0
     this.lock = new Auth0Lock(clientId, domain, {
       auth: {
-        redirectUrl: 'https://books-project-63.herokuapp.com/login',
+        redirectUrl: 'https://book-44.herokuapp.com/login',
         responseType: 'token'
       }
     })
