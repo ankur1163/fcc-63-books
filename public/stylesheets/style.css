@@ -1,0 +1,36 @@
+body {
+  padding: 20px;
+ 
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+imgclass{
+  vertical-align:middle;
+}
+.rr{
+  margin-top: 20px;
+  border-bottom: 1px;
+  border-bottom-color: green;
+}
+.resultstyle{
+  margin-top:50px;
+  list-style: none;
+    padding: 20px 0;
+    background-color: white;
+    border-bottom: 1px solid;
+    border-color: #f4f6f8;
+}
+a {
+  color: #00B7FF;
+}
+
+.fbody{
+  background-color:orange;
+}
+
+.res{
+  background-color:red;
+  margin-top:10px;
+	font:30px;
+	
+}
